@@ -1,2 +1,2 @@
 # basichtml
-BAsic Web Dev
+Basic Web Dev
